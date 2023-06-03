@@ -3,7 +3,7 @@ The code provided is an HTML, CSS, and JavaScript implementation of a basic calc
 It creates a calculator with a screen section to display input and output, 
 as well as a set of calculator buttons for performing calculations.
 
-The HTML part defines the structure of the calculator using <div>, <section>, and <button> elements. It also includes 
+The HTML part defines the structure of the calculator using div, section, and button elements. It also includes 
 a reference to an external CSS file for styling and an external JavaScript file for implementing the calculator's functionality.
 
 The CSS code sets the styling for different elements of the calculator, such as the background, button styles, and layout. 
